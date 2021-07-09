@@ -1,0 +1,328 @@
+2021-07-09 15:10:39 git log
+2021-07-09 15:10:35 git checkout history
+2021-07-09 15:10:17 git branch
+2021-07-09 15:10:12 git branch history
+2021-07-09 15:09:44 git status
+2021-07-09 15:09:39 git checkout main
+2021-07-09 15:08:02 git commit -m "added initial flavours"
+2021-07-09 15:07:41 git add milkshakes.md
+2021-07-09 15:04:40 nvim milkshakes.md
+2021-07-09 15:03:58 git checkout milkshake-flavours
+2021-07-09 15:03:17 git branch milkshake-flavours
+2021-07-09 15:02:09 git commit -m "third commit"
+2021-07-09 15:02:01 git add README.md
+2021-07-09 15:01:37 nvim README.md
+2021-07-09 15:01:14 git commit -m "second commit"
+2021-07-09 14:59:44 git clone
+2021-07-09 14:59:34 git commit -m "initial commit"
+2021-07-09 14:59:20 touch README.md
+2021-07-09 14:59:08 git init
+2021-07-09 14:59:02 cd git-basic-exercises/
+2021-07-09 14:58:59 mkdir git-basic-exercises
+2021-07-09 14:58:31 cd Workspace/
+2021-07-09 14:58:27 mkdir Workspace
+2021-07-09 14:58:11 rm -rf Workspace/
+2021-07-09 14:58:00 cd ..
+2021-07-09 14:57:42 ls
+2021-07-09 14:56:47 git statud
+2021-07-09 14:55:28 git add
+2021-07-09 14:49:58 rm -r git-basic-exercises/
+2021-07-09 14:38:58 git merge main
+2021-07-09 11:46:48 sudo fdisk -l
+2021-07-09 11:46:44 fdisk -l
+2021-07-09 10:41:41 git remote -v
+2021-07-09 10:40:58 git branch -a
+2021-07-09 10:40:32 cd a-repo-to-clone/
+2021-07-09 10:40:22 git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+2021-07-09 10:20:21 git push --all
+2021-07-09 10:20:12 git push -all
+2021-07-09 10:19:30 git push -u origin milkshake-flavours
+2021-07-09 10:17:28 git push -u milkshakes milkshake-flavours
+2021-07-09 10:14:32 git push -u origin main
+2021-07-09 10:14:16 git push -u  milkshake-flavors
+2021-07-09 10:14:01 git push -u origin milkshake-flavors
+2021-07-09 10:11:14 git remote add origin https://github.com/NewTechCoder/git-basic-exercises.git
+2021-07-09 10:08:14 git commit -m "tried to resolve merge conflicts"
+2021-07-09 08:19:10 cat README.md
+2021-07-09 08:18:51 git merge milkshake-flavours
+2021-07-09 08:17:13 git commit -m "rewrote readme"
+2021-07-09 08:16:50 git add *
+2021-07-09 08:16:28 echo "booya" > README.md
+2021-07-09 08:16:11 rm README.md
+2021-07-09 08:15:32 git commit -m "random readme changes"
+2021-07-09 08:13:38 git commit -m "added history"
+2021-07-09 08:13:26 git add history.txt
+2021-07-09 08:12:16 cat history.txt
+2021-07-09 08:12:11 history > history.txt
+2021-07-09 08:00:42 git checkout 41b670c541f5ff2b39bc8af6824a17a24720c284
+2021-07-09 07:59:30 gitlog
+2021-07-09 07:52:51 ls -a
+2021-07-09 00:50:50 yay -S garuda-wallpapers-extra appmenu-gtk-module ark bluedevil breeze breeze-gtk colord-kde dolphin-plugins drkonqi filelight gwenview kaccounts-providers kactivitymanagerd kamoso kate kcalc kcron kde-cli-tools kde-gtk-config kdeconnect kdecoration kdeplasma-addons kdf kdialog keditbookmarks kfind kgamma5 khelpcenter khotkeys kinfocenter kio-extras kio-fuse kio-gdrive kleopatra kmenuedit kompare konsole krdc krename krfb kscreen ksshaskpass ksystemlog kwalletmanager kwrited milou okular partitionmanager plasma-browser-integration plasma-desktop plasma-disks plasma-firewall plasma-integration plasma-nm plasma-pa plasma-systemmonitor plasma-thunderbolt plasma-vault plasma-workspace plasma-workspace-wallpapers polkit-kde-agent powerdevil quota-tools ruby spectacle systemsettings yakuake libreoffice-fresh libmythes opera opera-ffmpeg-codecs kmail kmail telegram-desktop discord wire-desktop signal-desktop jitsi-meet zoom slack-desktop xdman qbittorrent filezilla putty strawberry olivia kwave audacity mixxx bitwig-studio kdenlive movit sox opus-tools frei0r-plugins pitivi frei0r-plugins openshot obs-studio vlc gimp krita krita-plugin-gmic opencolorio digikam inkscape blender pencil2d mari0 knights supertuxkart teeworlds xonotic code gitkraken github-desktop-bin atom
+2021-07-09 00:42:04 pacman -S garuda-wallpapers-extra
+appmenu-gtk-module
+ark
+bluedevil
+breeze
+breeze-gtk
+colord-kde
+dolphin-plugins
+drkonqi
+filelight
+gwenview
+kaccounts-providers
+kactivitymanagerd
+kamoso
+kate
+kcalc
+kcron
+kde-cli-tools
+kde-gtk-config
+kdeconnect
+kdecoration
+kdeplasma-addons
+kdf
+kdialog
+keditbookmarks
+kfind
+kgamma5
+khelpcenter
+khotkeys
+kinfocenter
+kio-extras
+kio-fuse
+kio-gdrive
+kleopatra
+kmenuedit
+kompare
+konsole
+krdc
+krename
+krfb
+kscreen
+ksshaskpass
+ksystemlog
+kwalletmanager
+kwrited
+milou
+okular
+partitionmanager
+plasma-browser-integration
+plasma-desktop
+plasma-disks
+plasma-firewall
+plasma-integration
+plasma-nm
+plasma-pa
+plasma-systemmonitor
+plasma-thunderbolt
+plasma-vault
+plasma-workspace
+plasma-workspace-wallpapers
+polkit-kde-agent
+powerdevil
+quota-tools
+ruby
+spectacle
+systemsettings
+yakuake
+libreoffice-fresh
+libmythes
+opera
+opera-ffmpeg-codecs
+kmail
+kmail
+telegram-desktop
+discord
+wire-desktop
+signal-desktop
+jitsi-meet
+zoom
+slack-desktop
+xdman
+qbittorrent
+filezilla
+putty
+strawberry
+olivia
+kwave
+audacity
+mixxx
+bitwig-studio
+kdenlive
+movit
+sox
+opus-tools
+frei0r-plugins
+pitivi
+frei0r-plugins
+openshot
+obs-studio
+vlc
+gimp
+krita
+krita-plugin-gmic
+opencolorio
+digikam
+inkscape
+blender
+pencil2d
+mari0
+knights
+supertuxkart
+teeworlds
+xonotic
+code
+gitkraken
+github-desktop-bin
+atom
+2021-07-09 00:40:23 sudo pacman -Syu akonadi-21.04.3-1  akonadi-calendar-21.04.3-1  akonadi-contacts-21.04.3-1
+               akonadi-import-wizard-21.04.3-1  akonadi-mime-21.04.3-1  akonadi-notes-21.04.3-1
+               akonadi-search-21.04.3-1  alembic-1.8.2-1  apm-2.6.4-1  atkmm-2.28.2-2
+               audiofile-0.3.6-6  babl-0.1.86-1  blas-3.10.0-1  blosc-1.21.0-1  boost-libs-1.76.0-1
+               box2d-2.4.1-1  c-ares-1.17.1-1  cairomm-1.14.3-2  calendarsupport-21.04.3-1
+               cblas-3.10.0-1  cfitsio-1:3.49-1  clucene-2.3.3.4-11  colord-1.4.5-4
+               docbook-xml-4.5-9  docbook-xsl-1.79.2-7  electron11-11.4.10-1  electron12-12.0.14-1
+               electron9-9.4.4-1  embree-3.12.2-1  fmt-7.1.3-1  gavl-1.4.0-5  gd-2.3.2-4
+               gdb-10.2-2  gdb-common-10.2-2  gegl-0.4.30-4  glibmm-2.66.1-2  gmic-2.9.7-5
+               grantlee-5.2.0-3  grantleetheme-21.04.3-1  graphicsmagick-1.3.36-3
+               graphviz-2.47.3-1  gsfonts-20200910-2  gsl-2.7-1  gsound-1.0.2-5
+               gst-editing-services-1.18.4-1  gst-plugin-gtk-1.18.4-2  gst-python-1.18.4-1
+               gtest-1.11.0-1  gtk2-2.24.33-2  gtkmm3-3.24.5-2  gts-0.7.6.121130-2  hdf5-1.12.0-2
+               hunspell-1.7.0-3  ibus-1.5.24-1  id3lib-3.8.3-18  java-runtime-common-3-3
+               jemalloc-1:5.2.1-3  jre-openjdk-16.0.1.u9-1  jre-openjdk-headless-16.0.1.u9-1
+               jsoncpp-1.9.4-1  kalarmcal-21.04.3-1  kcalendarcore-5.83.0-1  kcalutils-21.04.3-1
+               kdav-1:5.83.0-1  kdepim-runtime-21.04.3-1  kdoctools-5.83.0-1  khtml-5.83.0-1
+               kidentitymanagement-21.04.3-1  kimap-21.04.3-1  kldap-21.04.3-1
+               kmail-account-wizard-21.04.3-1  kmailtransport-21.04.3-1  kmbox-21.04.3-1
+               kmime-21.04.3-1  kontactinterface-21.04.3-1  kpimtextedit-21.04.3-1
+               kplotting-5.83.0-1  kross-5.83.0-1  ksmtp-21.04.3-1  ktnef-21.04.3-1
+               lapack-3.10.0-1  lensfun-0.3.95-4  lib2geom-1.1-1  libabw-0.1.3-2  libaec-1.0.4-1
+               libakonadi-21.04.3-1  libatomic_ops-7.6.10-2  libavif-0.9.2-1  libb2-0.98.1-2
+               libcdr-0.1.7-2  libcmis-0.5.2-8  libdvbpsi-1:1.3.3-2  libe-book-0.1.3-9
+               libebml-1.4.2-1  libebur128-1.2.6-1  libepubgen-0.1.1-2  libetonyek-0.1.10-1
+               libexif-0.6.22-1  libexttextcat-3.4.5-2  libfilezilla-0.28.0-2  libfreehand-0.1.2-3
+               libgexiv2-0.12.2-1  libgphoto2-2.5.27-1  libgpod-0.8.3-12  libgravatar-21.04.3-1
+               libgsf-1.14.47-1  libheif-1.12.0-1  libieee1284-0.2.11-11  libimagequant-2.15.1-1
+               libixion-0.16.1-6  libkdegames-21.04.3-1  libkdepim-21.04.3-1  libkgapi-21.04.3-1
+               libkleo-21.04.3-1  libkolabxml-1.1.6-16  libksane-21.04.3-1  libksieve-21.04.3-1
+               liblangtag-0.6.3-2  libmad-0.15.1b-9  libmatroska-1.6.3-1  libmspub-0.1.4-10
+               libmwaw-0.3.19-1  libmypaint-1.6.1-1  libnet-1:1.1.6-1  libnumbertext-1.0.7-1
+               libodfgen-0.1.8-1  libopenshot-0.2.5-10  libopenshot-audio-0.2.0-1
+               libopusenc-0.2.1-2  liborcus-0.16.1-7  libpagemaker-0.0.4-2  libpeas-1.30.0-1
+               libqxp-0.0.2-6  librevenge-0.0.4-3  libsigc++-2.10.7-2  libspiro-1:20200505-2
+               libspnav-0.2.3-3  libstaroffice-0.0.7-1  libtar-1.2.20-5
+               libtorrent-rasterbar-1:1.2.14-1  libupnp-1.14.7-1  libvips-8.11.2-1
+               libvisio-0.1.7-5  libvncserver-0.9.13-1  libwmf-0.2.12-2  libwpd-0.10.3-3
+               libwpg-0.3.3-2  libwps-0.4.12-1  libyuv-r2212+dfaf7534-2  libzmf-0.0.2-10
+               log4cplus-2.0.6-1  love-11.3-1  lpsolve-5.5.2.11-1  mailcommon-21.04.3-1
+               mailimporter-21.04.3-1  marble-common-21.04.3-1  mariadb-10.5.11-1
+               mariadb-clients-10.5.11-1  mariadb-libs-10.5.11-1  mbedtls-2.26.0-1
+               mbox-importer-21.04.3-1  messagelib-21.04.3-1  metis-5.1.0.p10-2  mlt6-6.26.1-4
+               mypaint-brushes1-1.3.1-1  net-snmp-5.9.1-1  netpbm-10.73.34-1  node-gyp-8.1.0-2
+               nodejs-16.4.2-1  nodejs-nopt-5.0.0-2  npm-7.17.0-1  opencollada-1:1.6.68-2
+               opencolorio1-1.1.1-3  opencv-4.5.3-1  openimagedenoise-1.4.0-1
+               openimageio-2.2.15.1-4  openshadinglanguage-1.11.14.0-3  opensubdiv-3.4.4-2
+               openvdb-8.1.0-1  openxr-1.0.17-1  opusfile-0.12-1  pangomm-2.46.1-2
+               pim-data-exporter-21.04.3-1  pim-sieve-editor-21.04.3-1  pimcommon-21.04.3-1
+               podofo-0.9.7-1  poppler-data-0.4.10-1  portmidi-217-9  portsmf-234-2  potrace-1.16-2
+               ptex-2.4.0-1  pugixml-1.11.4-1  pv-1.6.6-3  pybind11-2.6.2-2  pystring-1.1.3.git1-1
+               python-cairo-1.20.0-3  python-chardet-4.0.0-2  python-cycler-0.10.0-8
+               python-dateutil-2.8.1-6  python-idna-3.2-1  python-kiwisolver-1.3.1-3
+               python-matplotlib-3.4.2-1  python-numpy-1.20.3-1  python-pillow-8.3.0-1
+               python-pyzmq-22.0.3-1  python-requests-2.25.1-1  python-urllib3-1.26.6-1
+               qgpgme-1.16.0-1  qhull-2020.2-4  qt5-networkauth-5.15.2-1  qt5-script-5.15.5-2
+               qt5-webkit-5.212.0alpha4-10  qt5-xmlpatterns-5.15.2-1  qt6-base-6.1.2-1
+               qtav-1.13.0-1  qtkeychain-qt5-0.12.0-1  quazip-1.1-1  ragel-6.10-3
+               rasqal-1:0.9.33-4  redland-1:1.0.17-8  ripgrep-13.0.0-2  rnnoise-0.4.1-1
+               rttr-0.9.6-3  ruby-irb-1.3.6-1  ruby-reline-0.2.5-1  rubygems-3.2.21-1
+               sane-1.0.32-3  semver-7.3.5-2  sg3_utils-1.46-1  source-highlight-3.1.9-5
+               suil-0.10.10-1  suitesparse-5.10.1-1  tbb-2020.3-1  tinyxml-2.6.2-7
+               vamp-plugin-sdk-2.10.0-1  wxgtk-common-3.0.5.1-2  wxgtk3-3.0.5.1-2
+               xapian-core-1:1.4.18-1  xerces-c-3.2.3-3  xmlsec-1.2.32-1  xonotic-data-0.8.2-3
+               yaml-cpp-0.6.3-2  appmenu-gtk-module-0.7.6-1  atom-1.57.0-1  audacity-1:2.4.1-4
+               bitwig-studio-3.3.10-1  blender-17:2.93.1-2  breeze-gtk-5.22.3-1  code-1.56.2-3
+               colord-kde-0.5.0-3  digikam-7.2.0-5  discord-0.0.15-1  drkonqi-5.22.3-1
+               filelight-21.04.3-1  filezilla-3.54.1-2  frei0r-plugins-1.7.0-1
+               garuda-wallpapers-extra-r7.ab0023d-1  gimp-2.10.24-5  gitkraken-7.6.1-1
+               gwenview-21.04.3-1  inkscape-1.1-4  jitsi-meet-1.0.5056-1
+               kaccounts-providers-21.04.3-1  kamoso-21.04.3-1  kcalc-21.04.3-1  kcron-21.04.3-1
+               kdenlive-21.04.3-1  kdeplasma-addons-5.22.3-1  kdf-21.04.3-1
+               keditbookmarks-21.04.3-1  kfind-21.04.3-1  kgamma5-5.22.3-1  khelpcenter-21.04.3-1
+               kio-gdrive-21.04.3-1  kleopatra-21.04.3-1  kmail-21.04.3-1  knights-21.04.3-1
+               krdc-21.04.3-1  krename-5.0.1-3  krfb-21.04.3-1  krita-4.4.5-2
+               krita-plugin-gmic-2.9.7-5  ksshaskpass-5.22.3-1  ksystemlog-21.04.3-1
+               kwalletmanager-21.04.3-1  kwave-21.04.3-1  kwrited-5.22.3-1  libmythes-1:1.2.4-4
+               libreoffice-fresh-7.1.4-1  mari0-1.6.2-3  mixxx-2.3.0-2  movit-1.6.3-2
+               obs-studio-27.0.1-1  olivia-r837.2afc8a0-1  opencolorio-2.0.1-2  openshot-2.5.1-4
+               opera-77.0.4054.203-1  opera-ffmpeg-codecs-91.0.4472.124-1  opus-tools-0.2-3
+               pencil2d-0.6.6-1  pitivi-2021.05-1  plasma-disks-5.22.3-1  plasma-vault-5.22.3-1
+               plasma-workspace-wallpapers-5.22.3-1  putty-0.75-1  qbittorrent-4.3.6-1
+               ruby-3.0.1-1  signal-desktop-5.8.0-1  slack-desktop-4.17.0-1  sox-14.4.2-7
+               strawberry-0.9.3-3  supertuxkart-1.2-1  teeworlds-0.7.5-1  telegram-desktop-2.8.4-3
+               vlc-3.0.16-2  wire-desktop-3.26.2941-1  xdman-2020.7.2.11-2  xonotic-0.8.2-6
+               yakuake-21.04.3-1  zoom-5.7.1-1
+2021-07-08 23:25:07 cd news-app/
+2021-07-08 23:19:09 git clone https://github.com/NewTechCoder/news-app
+2021-07-08 23:17:58 nmtui
+2021-07-08 23:16:05 cat .git/COMMIT_EDITMSG
+2021-07-08 23:15:39 ls .git/
+2021-07-08 23:15:32 git commit -m 'Initial project version'
+2021-07-08 23:15:09 cat .git/index
+2021-07-08 23:14:22 git add LICENSE
+2021-07-08 23:14:08 git add *.c*
+2021-07-08 23:13:51 mv LICENSE ..
+2021-07-08 23:13:44 mv hell* ..
+2021-07-08 23:13:30 cd -
+2021-07-08 23:13:23 git add *.c
+2021-07-08 23:12:36 touch hello.c hello.py hello.cpp
+2021-07-08 23:12:06 touch LICENSE
+2021-07-08 23:09:34 cat config
+2021-07-08 23:09:18 ll
+2021-07-08 23:09:10 cd .git/
+2021-07-08 23:09:06 cd .
+2021-07-08 23:08:25 cd my_project/
+2021-07-08 23:08:23 mkdir my_project
+2021-07-08 23:08:02 pwd
+2021-07-08 23:07:34 rm -r *
+2021-07-08 23:02:10 git config --list
+2021-07-08 23:02:09 cd
+2021-07-08 23:01:50 git --config list
+2021-07-08 23:01:44 git config list
+2021-07-08 23:01:25 ll -a
+2021-07-08 23:01:05 cd git-test/
+2021-07-08 23:00:41 rm -r .*
+2021-07-08 23:00:36 rm .*
+2021-07-08 23:00:05 rm *
+2021-07-08 22:59:51 nvim .gitconfig
+2021-07-08 22:59:40 git config --global init.defaultBranch main
+2021-07-08 22:58:23 mkdir git-test
+2021-07-08 22:57:03 git config --global core.editor nvim
+2021-07-08 22:56:58 git config --global core.editor vi
+2021-07-08 22:55:37 git config --list --show-origin
+2021-07-08 22:55:32 git config --global user.email ayanda.latsha@gmail.com
+2021-07-08 22:54:58 git config --global user.name "Ayanda Latsha"
+2021-07-08 22:54:43 git config user.name "Ayanda Latsha"
+2021-07-08 22:45:50 sudo pacman -S git-all
+2021-07-08 22:45:11 cd Downloads/
+2021-07-08 22:44:42 git --version
+2021-07-08 22:34:15 man exa
+2021-07-08 22:34:11 exa
+2021-07-08 22:32:48 nvim .config/fish/config.fish
+2021-07-08 22:09:44 yay -S zathura-pdf-poppler
+2021-07-08 22:09:20 yay -S ZATHURA-PDF-POPPLER
+2021-07-08 22:07:36 yay -S zathura
+2021-07-08 22:06:59 man pacman
+2021-07-08 21:50:04 sudo nvim /etc/X11/xorg.conf.d/50-libinput.conf
+2021-07-08 21:49:51 sudo su
+2021-07-08 21:47:48 su
+2021-07-08 20:56:31 xprop | grep "WMCLASS"
+2021-07-08 20:56:15 echo $TERM
+2021-07-08 20:28:45 ranger
+2021-07-08 17:23:54 sudo pacman -S qtile zathura rofi dmenu ranger
+2021-07-08 17:23:33 sudo pacman -S qtile zathura rofi dmenu lxappearence ranger
+2021-07-08 16:21:32 sudo pacman -S git
+2021-07-08 16:19:21 htop
+2021-07-08 16:18:18 nvim
+2021-07-08 16:18:16 g++
+2021-07-08 16:17:47 sudo pacman -S neovim
+2021-07-08 15:30:41 yay -Sy google-chrome
